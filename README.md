@@ -1,5 +1,2 @@
-# Flask_Test
-Test App : app.py
-static - css files
-template - html files
+# Flask_Test: Test Project of Flask web development application. 
 
